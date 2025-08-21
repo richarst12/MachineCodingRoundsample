@@ -8,7 +8,7 @@ It demonstrates clean architecture, MVVM pattern, and usage of Jetpack libraries
 ### 🛠 Tech Stack
 
 * Kotlin – Programming Language
-* MVVM Architecture – Clean separation of concerns
+* MVVM Architecture –  separation of concerns
 * ViewModel & Flows – Lifecycle-aware data handling
 * Jetpack Compose – Modern declarative UI toolkit
 * Coroutines – For background operations
