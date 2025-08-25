@@ -61,6 +61,7 @@ dependencies {
     //dagger
 //    implementation(libs.dagger)
 //    kapt(libs.dagger.compiler)
+//hilt
     implementation(libs.hilt.android)
     kapt(libs.hilt.compiler)
     implementation(libs.androidx.lifecycle.viewmodel.ktx)
